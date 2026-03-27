@@ -8,7 +8,7 @@
   "server": {
     "ip": "smp323.aternos.me",
     "port": 49524,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
